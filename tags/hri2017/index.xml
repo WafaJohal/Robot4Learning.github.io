@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hri2017 | </title>
+    <link>https://Robot4Learning.github.io/tags/hri2017/</link>
+      <atom:link href="https://Robot4Learning.github.io/tags/hri2017/index.xml" rel="self" type="application/rss+xml" />
+    <description>hri2017</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Wafa Johal 2020</copyright><lastBuildDate>Sat, 11 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>hri2017</title>
+      <link>https://Robot4Learning.github.io/tags/hri2017/</link>
+    </image>
+    
+    <item>
+      <title>R4L @HRI 2017</title>
+      <link>https://Robot4Learning.github.io/events/hri2017/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/hri2017/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;An increasing amount of HRI research focuses on the development of social robots acting as tutors. While robots have been popular as a focus for STEM teaching (see Lego Mindstorms or Thymio), the use of robots as tutors is novel. The field of HRI has started reporting on how to make effective robot tutors and how to measure their efficacy. These studies have shown that the potential of robots in educational settings is inarguable: robot can provide educational content tailored to the individual, something which is missing from current educational settings. They also have the potential to enhance learning via kinesthetic interaction, can improve the learner’s self-esteem and can provide empathic feedback. Finally, robots have been shown to engage the learner, to motivate her in the learning task or to enhance collaboration in a group.
+However, many questions still remain. For instance, what interaction strategies aid learning, and which hamper learning? How can we deal with the current technical limitations of robots? How should effective lessons be developed and implemented on a robot? Answering these and other questions requires a multidisciplinary effort, including contributions from pedagogy, developmental psychology, (computational) linguistics, artificial intelligence and HRI, among others.
+The aim of this workshop is to engage scholars who aim to gain expertise in education and in robotics (from instructional design to inverse kinematics, ROS to ZPD, Markov to Piaget) into a new  interdisciplinary community working on educational robotics. Participants will benefit from hearing from the forefront of field and from discussions on how to move from fundamental research towards the development of market-ready educational robots.&lt;/p&gt;
+&lt;h1 id=&#34;list-of-topics&#34;&gt;List of topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Adaptive mechanisms for robot tutors, personalization and adaptation algorithms for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Theories and methods for tutoring (pedagogical and  language acquisition)&lt;/li&gt;
+&lt;li&gt;Engagement in educational human-robot interaction&lt;/li&gt;
+&lt;li&gt;Gain in learning vs fun in learning with a robot&lt;/li&gt;
+&lt;li&gt;Kinesthetic and non-verbal communication in human-robot interaction&lt;/li&gt;
+&lt;li&gt;Attachment and learning with a social robot (social and cognitive development)&lt;/li&gt;
+&lt;li&gt;Impact of embodiment on learning&lt;/li&gt;
+&lt;li&gt;Shared knowledge and knowledge modelling in HRI&lt;/li&gt;
+&lt;li&gt;Technical innovation in learning or teaching robots&lt;/li&gt;
+&lt;li&gt;Rehabilitation and reeducation&lt;/li&gt;
+&lt;li&gt;Long term learning interactions, design and methodologies for repeated human-robot encounters&lt;/li&gt;
+&lt;li&gt;Human-robot collaborative learning&lt;/li&gt;
+&lt;li&gt;Human-robot creativity&lt;/li&gt;
+&lt;li&gt;Design of autonomous systems for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Privacy and ethical issues in robot tutoring applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;invited-speakers&#34;&gt;Invited Speakers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Pierre Dillenbourg, EPFL, Switzerland&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;selected-papers&#34;&gt;Selected Papers&lt;/h1&gt;
+&lt;p&gt;Uncanny Valley Feeling an Impact on Learning: A preliminary Experiment performed in a French Elementary School. Bertrand Tondu&lt;/p&gt;
+&lt;p&gt;Towards Designing a Socially Assistive Robot for Adaptive and Personalized Cognitive Training. Konstantinos Tsiakas, Cheryl Abellanoza, Maher Abujelala, Michalis Papakostas, Tasnim Makada and Fillia Makedon&lt;/p&gt;
+&lt;p&gt;Robot-Based Learning Design for Young Children. Yanghee Kim and Diantha Smith&lt;/p&gt;
+&lt;p&gt;Teaching Assistant Robot Development by PRINTEPS. Chihiro Nishimoto, Shunsuke Akashiba, Takeshi Morita and Takahira Yamaguchi&lt;/p&gt;
+&lt;p&gt;A Humanoid Robot as a Language Tutor. Johanna Hemminki and Anne Erkinheimo-Kyllönen&lt;/p&gt;
+&lt;p&gt;A Persuasive Storyteller Robot: Pilot Study. Raul Paradeda, Maria José Ferreira, Carlos Martinho, João Dias and Ana Paiva&lt;/p&gt;
+&lt;p&gt;Comparing L2 Word Learning through a Tablet or Real Objects: What Benefits Learning Most?. Rianne Vlaar, Josje Verhagen, Ora Oudgenoeg-Paz and Paul Leseman&lt;/p&gt;
+&lt;p&gt;Exploring the Effect of Gestures and Adaptive Tutoring on Children’s Comprehension of L2 Vocabularies. Jan de Wit, Thorsten Schodde, Bram Willemsen, Kirsten Bergmann, Mirjam de Haas, Stefan Kopp, Emiel Krahmer and Paul Vogt&lt;/p&gt;
+&lt;p&gt;ProCRob Architecture for Personalized Social Robotics. Pouyan Ziafati, Francisco J Rodríguez Lera, Andreia Pinto Costa, Aida Nazarikhorram and Leon Van Der Torre Has&lt;/p&gt;
+&lt;h1 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

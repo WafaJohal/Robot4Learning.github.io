@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>idc2018 | </title>
+    <link>https://Robot4Learning.github.io/tags/idc2018/</link>
+      <atom:link href="https://Robot4Learning.github.io/tags/idc2018/index.xml" rel="self" type="application/rss+xml" />
+    <description>idc2018</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Wafa Johal 2020</copyright><lastBuildDate>Tue, 19 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>idc2018</title>
+      <link>https://Robot4Learning.github.io/tags/idc2018/</link>
+    </image>
+    
+    <item>
+      <title>The Near Future of Children&#39;s Robotics</title>
+      <link>https://Robot4Learning.github.io/events/idc2018/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/idc2018/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Robotics is a multidisciplinary and highly innovative field. Recently, multiple and often minimally connected sub-communities of child-robot interaction have started to emerge, variously focusing on the design issues, engineering, and applications of robotic platforms and toolkits. Despite increasing public interest in robots, including robots for children, child-robot interaction research remains highly fragmented and lacks regular cross-disciplinary venues for discussion and dissemination. This workshop will bring together researchers with diverse scientific backgrounds. It will serve as a venue in which to reflect on the current circumstances in which child-robot research is conducted, articulate emerging and “near future” challenges, and discuss actions and tools with which to meet those challenges and consolidate the field.&lt;/p&gt;
+&lt;h1 id=&#34;external-link&#34;&gt;External Link&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sites.google.com/view/cri-idc-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/cri-idc-workshop&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

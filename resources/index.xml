@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources | </title>
+    <link>https://Robot4Learning.github.io/resources/</link>
+      <atom:link href="https://Robot4Learning.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resources</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Wafa Johal 2020</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Resources</title>
+      <link>https://Robot4Learning.github.io/resources/</link>
+    </image>
+    
+    <item>
+      <title>Zotero</title>
+      <link>https://Robot4Learning.github.io/resources/zotero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/resources/zotero/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.zotero.org/groups/2419050/hri-unsw/collections/X6PKYLT6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.zotero.org/groups/2419050/hri-unsw/collections/X6PKYLT6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

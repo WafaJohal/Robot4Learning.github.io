@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swissR4L | </title>
+    <link>https://Robot4Learning.github.io/tags/swissr4l/</link>
+      <atom:link href="https://Robot4Learning.github.io/tags/swissr4l/index.xml" rel="self" type="application/rss+xml" />
+    <description>swissR4L</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Wafa Johal 2020</copyright><lastBuildDate>Wed, 11 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>swissR4L</title>
+      <link>https://Robot4Learning.github.io/tags/swissr4l/</link>
+    </image>
+    
+    <item>
+      <title>Swiss R4L</title>
+      <link>https://Robot4Learning.github.io/events/swissr4l/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/swissr4l/</guid>
+      <description>&lt;h1 id=&#34;venue&#34;&gt;Venue&lt;/h1&gt;
+&lt;p&gt;The workshop will take place at the Hotel Victoria in Villars-sur-Ollon (aka, Villars, a Ski resort of the Vaud Canton). &lt;a href=&#34;http://www.eurotel-victoria.ch/villars/&#34;&gt;http://www.eurotel-victoria.ch/villars/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Villars is situated on the other side of the Leman Lac from Geneva.
+After enjoying the beautyful view of the lake on the way to Aigle by train, you will find a bus (144) that runs every 30min and drops you by the hotel.
+The trains to Aigle are frequent and you can find direct inter-regional train from major Swiss cities : from Bern train station (2h30), from Geneva train station (1h20), Geneva airport (1h30). Lausanne (35 min).&lt;/p&gt;
+&lt;h1 id=&#34;list-of-topics&#34;&gt;List of topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Adaptive mechanisms for robot tutors, personalization and adaptation algorithms for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Design of autonomous systems for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Theories and methods for tutoring (pedagogical and language acquisition)&lt;/li&gt;
+&lt;li&gt;Shared knowledge and knowledge modelling in HRI&lt;/li&gt;
+&lt;li&gt;Human-robot collaborative learning&lt;/li&gt;
+&lt;li&gt;Attachment and learning with a social robot (social and cognitive development)&lt;/li&gt;
+&lt;li&gt;Engagement in educational human-robot interaction&lt;/li&gt;
+&lt;li&gt;Human-robot relationship assessment&lt;/li&gt;
+&lt;li&gt;Designing student models and assessing student’s learning&lt;/li&gt;
+&lt;li&gt;Playful learning with a robot&lt;/li&gt;
+&lt;li&gt;Human-robot creativity&lt;/li&gt;
+&lt;li&gt;Kinesthetic and non-verbal communication in human-robot interaction&lt;/li&gt;
+&lt;li&gt;Impact of embodiment on learning&lt;/li&gt;
+&lt;li&gt;Technical innovation in learning or teaching robots&lt;/li&gt;
+&lt;li&gt;Long term learning interactions, design and methodologies for repeated human-robot encounters&lt;/li&gt;
+&lt;li&gt;Robots for learners with special needs and special abilities&lt;/li&gt;
+&lt;li&gt;Education and re-training for adults&lt;/li&gt;
+&lt;li&gt;Rehabilitation and re-education&lt;/li&gt;
+&lt;li&gt;Privacy and ethical issues in robot tutoring applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;prepare-your-workshop&#34;&gt;Prepare your workshop&lt;/h1&gt;
+&lt;p&gt;The workshop will be organised around 6 sections. Each sections will address a challenge in HRI for learners.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Non-verbal interaction and verbal interaction: impact of gestures, verbal feedback etc.&lt;/li&gt;
+&lt;li&gt;Kinesthetic learning vs other learning modalities: how does dynamic and tangible interaction influence the learner experience?&lt;/li&gt;
+&lt;li&gt;Learning gain and applications: do we learn better/ more with robots? what influence the learning gain? what can we teach with a robot (limitation in the curricula)? How do we design the learning task?&lt;/li&gt;
+&lt;li&gt;Autonomy and reasoning about learners knowledge: how to adapta, personalise learning?&lt;/li&gt;
+&lt;li&gt;In the classroom or managing group of learners: how to cope with several learners? collaboration, robot facilitator?&lt;/li&gt;
+&lt;li&gt;Engagement and motivation: how is engagement affecting learning? novelty effect.
+In order to frame the discussion, we ask you to contribute by preparing 3 slides related to the theme of the session. You can present a point of view, an experiment, an algorithm …&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

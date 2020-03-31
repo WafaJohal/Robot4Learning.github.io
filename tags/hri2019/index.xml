@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hri2019 | </title>
+    <link>https://Robot4Learning.github.io/tags/hri2019/</link>
+      <atom:link href="https://Robot4Learning.github.io/tags/hri2019/index.xml" rel="self" type="application/rss+xml" />
+    <description>hri2019</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Wafa Johal 2020</copyright><lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>hri2019</title>
+      <link>https://Robot4Learning.github.io/tags/hri2019/</link>
+    </image>
+    
+    <item>
+      <title>R4L @HRI 2019</title>
+      <link>https://Robot4Learning.github.io/events/hri2019/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/hri2019/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Since several years, several research groups have investigated the use of robots for learning and teaching. Their work is divided into two main streams that we could call the interaction stream (i-stream) and the building stream (b-stream).The I-stream develops embodied agents able to conduct rich interactions with learners. These are mainly humanoids, part of humanoids or robotised animals that engaged learners in activities (writing, playing, counting, …) and are able to interact about these activities. These robots namely provide verbal and non-verbal hints, encouragement and feedback on several dimensions of the task: performance, cognitive (e.g. level of (mis-)understanding), social (e.g. regulation turn taking in teams), meta-cognitive or emotional. In the b-stream, the learner’s activities is to build the robots capacities. The most popular building activities consist of programming a robot such Thymio, mostly to acquire programming skills. Many other projects in the Makers or FabLab educational initiatives explore the physical construction of the robot either by assembling components from a toolkit such as Lego Mindstorms or by using 3D printing, wiring, etc. These construction activities usually include programming is well, but generally target broader learning goals, mostly STEM skills.&lt;/p&gt;
+&lt;p&gt;While the I-STREAM addresses research questions that are very close to HRI and ROMAN topics, the work on the b-stream is generally addressed in other venues, creating a divide within those who explore robots in education. This workshop proposes to bring these two streams together because many developments that exist in one stream could also benefit to the other stream.  A typical example of these synergies are situations where a humanoid (i-stream) and a learner jointly manipulate a graspable robot (b-stream). This workshop aims to create many more bridges between these two streams.&lt;/p&gt;
+&lt;h1 id=&#34;list-of-topics&#34;&gt;List of topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning activities in HRI&lt;/li&gt;
+&lt;li&gt;Adaptive mechanisms for robot tutors&lt;/li&gt;
+&lt;li&gt;Engagement in educational human-robot interaction&lt;/li&gt;
+&lt;li&gt;Gain in learning vs fun in learning with a robot&lt;/li&gt;
+&lt;li&gt;Observational and Kinesthetic learning in human-robot interaction&lt;/li&gt;
+&lt;li&gt;Attachment and learning with a social robot&lt;/li&gt;
+&lt;li&gt;Impact of embodiment on learning&lt;/li&gt;
+&lt;li&gt;Shared knowledge and knowledge modelling in HRI&lt;/li&gt;
+&lt;li&gt;Technical innovation in learning or teaching robots&lt;/li&gt;
+&lt;li&gt;The role of teachers in child-robot interactions&lt;/li&gt;
+&lt;li&gt;Rehabilitation and re-education&lt;/li&gt;
+&lt;li&gt;Human-robot collaborative learning&lt;/li&gt;
+&lt;li&gt;Human-robot creativity&lt;/li&gt;
+&lt;li&gt;Human-robot knowledge sharing&lt;/li&gt;
+&lt;li&gt;Multi-party interaction and group interaction&lt;/li&gt;
+&lt;li&gt;Mixed human, robot and virtual teams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
+&lt;p&gt;14:00-14:20 Welcome and Introduction&lt;/p&gt;
+&lt;p&gt;14:20-14:45 Social Robot as an Awareness Tool to Help Regulate Collaboration in a Project Meeting. Alix Gonnot, Christine Michel, Jean-Charles Marty and Amélie Cordier.&lt;/p&gt;
+&lt;p&gt;14:45-15:10 MobiAxis: An Embodied Learning Task for Teaching Multiplication with a Social Robot. Karen Tatarian, Sebastian Wallkotter, Sera Buyukgoz, Rebecca Stower and Mohamed Chetouani.&lt;/p&gt;
+&lt;p&gt;15:10-16:25 Semi-structured group discussions&lt;/p&gt;
+&lt;p&gt;16:25-17:00 Conclusion &amp;amp; Wrap up&lt;/p&gt;
+&lt;h1 id=&#34;selected-papers&#34;&gt;Selected Papers&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

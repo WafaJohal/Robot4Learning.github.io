@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | </title>
+    <link>https://Robot4Learning.github.io/events/</link>
+      <atom:link href="https://Robot4Learning.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Wafa Johal 2020</copyright><lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Events</title>
+      <link>https://Robot4Learning.github.io/events/</link>
+    </image>
+    
+    <item>
+      <title>R4L @RoMan 2019</title>
+      <link>https://Robot4Learning.github.io/events/roman2019/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/roman2019/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Learning occurs throughout our entire life. We all learn about different things, at our own pace and method. In classical education, a class of learners is meant to learn a standard course in a pace consistent for the entire class. However, when a group of students are taught the same lessons at the same pace some students may lag in comprehension while some others excel. The concept of adaptive learning originates from the fact that every learner has a unique learning curve and personalized content aligned to her learning curve can improve learning outcomes. Recent technologies have made it possible to capture learner’s data, on the basis of which the system delivers different topics to the learner.&lt;/p&gt;
+&lt;p&gt;The Robots for Learning workshop, in its 5th series, focuses on adaptive learning. Adaptive learning systems are envisioned to maximize learning efficiency, improve learning outcomes, create personalised learning experience, generate analytics for early interventions, increase engagement, and allow for customizability to fit individual needs and preferences. In this workshop, we aim to discuss the approaches and challenges of using robots for learner-centric methods, learning path adaptation, social personalisation, remediation and multimodal techniques. Robots can be able to perceive and monitor learning, and at the same time empathize and give personalized feedback to the learners.&lt;/p&gt;
+&lt;p&gt;With this workshop, we aim at discussing recent advances in empirical and theoretical state-of-the-art research contributions on HRI in educational contexts regarding the following challenges: how adaptivity can play a role in the educational context? How can we use machine learning to provide better learning? How could robots be used to foster adaptive learning for a group of users?&lt;/p&gt;
+&lt;h1 id=&#34;list-of-topics&#34;&gt;List of topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Adaptive mechanisms for robot tutors, personalization and adaptation algorithms for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Design of autonomous systems for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Theories and methods for tutoring (pedagogical and  language acquisition)&lt;/li&gt;
+&lt;li&gt;Shared knowledge and knowledge modelling in HRI&lt;/li&gt;
+&lt;li&gt;Human-robot collaborative learning&lt;/li&gt;
+&lt;li&gt;Attachment and learning with a social robot (social and cognitive development)&lt;/li&gt;
+&lt;li&gt;Engagement in educational human-robot interaction&lt;/li&gt;
+&lt;li&gt;Human-robot relationship assessment&lt;/li&gt;
+&lt;li&gt;Designing student models and assessing student’s learning&lt;/li&gt;
+&lt;li&gt;Playful learning with a robot&lt;/li&gt;
+&lt;li&gt;Human-robot creativity&lt;/li&gt;
+&lt;li&gt;Kinesthetic and non-verbal communication in human-robot interaction&lt;/li&gt;
+&lt;li&gt;Impact of embodiment on learning&lt;/li&gt;
+&lt;li&gt;Technical innovation in learning or teaching robots&lt;/li&gt;
+&lt;li&gt;Long term learning interactions, design and methodologies for repeated human-robot encounters&lt;/li&gt;
+&lt;li&gt;Robots for learners with special needs and special abilities&lt;/li&gt;
+&lt;li&gt;Education and re-training for adults&lt;/li&gt;
+&lt;li&gt;Rehabilitation and re-education&lt;/li&gt;
+&lt;li&gt;Privacy and ethical issues in robot tutoring applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
+&lt;p&gt;9:00-9:05            Introduction
+9:05-9:40            Keynote Tony Belpaeme (30 min +5)
+9:40-10:30          Presentations (2 papers, 20 min +5 each)
+10:30-11:00        Coffee break
+11:00-11:50        Presentations (2 papers, 20 min +5 each)
+11:50-12:50        Semi-structured group discussions
+12:50-13:00        Conclusion &amp;amp; Wrap up&lt;/p&gt;
+&lt;h1 id=&#34;selected-papers&#34;&gt;Selected Papers&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt; Children’s anthropomorphism of second language robot tutors (Mirjam de Haas, Rianne van den Berghe, Paul Leseman, Emiel Krahmer, Josje Verhagen, Paul Vogt, Bram Willemsen and Jan de Wit)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt; Storytelling with a social robot (Nicole Goossens, Rian Aarts and Paul Vogt) 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt; Effective robot-human skill transfer via mutual reinforcement learning (Sayanti Roy, Emily Kieson, Charles Abramson and Christopher Crick)&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R4L @HRI 2018</title>
+      <link>https://Robot4Learning.github.io/events/hri2018/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/hri2018/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;In recent years, research in Human-Robot Interaction has increasingly attracted interest from the field of education in particular. However, this interest is not new: the logo turtle entered schools nearly 40 years ago. Over this period, robots have changed a lot: sequentially or eventually programmable, they also integrate a wide spectrum of sensors and actuators. Hence, new applications in educational contexts can now be envisioned.&lt;/p&gt;
+&lt;p&gt;The Robots for Learning (R4L) workshop is in its 4th series, and the focus of this edition is on inclusive learning. Robots as educational agents have been studied and deployed in various forms – as tools, mediators, tutors, and peers. In this workshop, we aim to discuss the approaches and challenges of developing these educational robots to be more inclusive, helping learners of different ages, backgrounds, genders, and learning abilities. Learners with difficulties often need more attention or personalised training. With this workshop, we aim at discussing recent advances in empirical and theoretical state-of-the-art research contributions on human-robot interaction in educational contexts on the following challenges:  How to design robots to adapt to learners abilities? How to build long-term learning with robots? How can robots engage learners in playful learning activities? How can robots assist learners in multimodal learning scenarios?&lt;/p&gt;
+&lt;p&gt;We invite authors to report previous research, practice and interest in developing application in educational robotics. Researchers from HRI, robotics and educational backgrounds are invited to contribute. Papers will be reviewed for appropriateness and scientific and technical soundness. Priority will be given to papers which fit the theme of the call, which are complementary, and which offer a range of theoretical and cultural perspectives.&lt;/p&gt;
+&lt;h1 id=&#34;list-of-topics&#34;&gt;List of topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Adaptive mechanisms for robot tutors, personalization and adaptation algorithms for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Design of autonomous systems for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Theories and methods for tutoring (pedagogical and language acquisition)&lt;/li&gt;
+&lt;li&gt;Shared knowledge and knowledge modelling in HRI&lt;/li&gt;
+&lt;li&gt;Human-robot collaborative learning&lt;/li&gt;
+&lt;li&gt;Attachment and learning with a social robot (social and cognitive development)&lt;/li&gt;
+&lt;li&gt;Engagement in educational human-robot interaction&lt;/li&gt;
+&lt;li&gt;Human-robot relationship assessment&lt;/li&gt;
+&lt;li&gt;Designing student models and assessing student’s learning&lt;/li&gt;
+&lt;li&gt;Playful learning with a robot&lt;/li&gt;
+&lt;li&gt;Human-robot creativity&lt;/li&gt;
+&lt;li&gt;Kinesthetic and non-verbal communication in human-robot interaction&lt;/li&gt;
+&lt;li&gt;Impact of embodiment on learning&lt;/li&gt;
+&lt;li&gt;Technical innovation in learning or teaching robots&lt;/li&gt;
+&lt;li&gt;Long term learning interactions, design and methodologies for repeated human-robot encounters&lt;/li&gt;
+&lt;li&gt;Robots for learners with special needs and special abilities&lt;/li&gt;
+&lt;li&gt;Education and re-training for adults&lt;/li&gt;
+&lt;li&gt;Rehabilitation and re-education&lt;/li&gt;
+&lt;li&gt;Privacy and ethical issues in robot tutoring applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;invited-speakers&#34;&gt;Invited Speakers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Iolanda Leite, KTH&lt;/li&gt;
+&lt;li&gt;Elizabeth Broadbent, University of Auckland&lt;/li&gt;
+&lt;li&gt;Brian Scassellati, Yale University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
+&lt;p&gt;9:00-9:30&lt;/p&gt;
+&lt;p&gt;Welcome talk&lt;/p&gt;
+&lt;p&gt;9:30-10:30&lt;/p&gt;
+&lt;p&gt;Session 1&lt;/p&gt;
+&lt;p&gt;Maryam Pourebadi and Laurel Riek, Expressive Robotic Patient Simulators for Clinical Education&lt;/p&gt;
+&lt;p&gt;Arzu Guneysu, Wafa Johal, Ayberk Özgür and Pierre Dillenbourg, Tangible Robots Mediated Collaborative Rehabilitation Design: Can we Find Inspiration from Scripting Collaborative Learning?&lt;/p&gt;
+&lt;p&gt;Patrick Wang, Ilaria Renna, Frédéric Amiel and Xun Zhang, Learning with Robots in CS and STEM Education: A Case Study with ISEP-R0B0&lt;/p&gt;
+&lt;p&gt;10:30-10:50&lt;/p&gt;
+&lt;p&gt;Coffee break&lt;/p&gt;
+&lt;p&gt;10:50-11:25&lt;/p&gt;
+&lt;p&gt;Iolanda Leite (KTH), Toward Adaptive Social Robots for Learning&lt;/p&gt;
+&lt;p&gt;11:25-13:00&lt;/p&gt;
+&lt;p&gt;Session 2&lt;/p&gt;
+&lt;p&gt;Emmanuel Senft, Séverin Lemaignan, Madeleine Bartlett, Paul Baxter and Tony Belpaeme, Robots in the classroom: Learning to be a Good Tutor&lt;/p&gt;
+&lt;p&gt;Lujie Chen, Henny Admoni and Artur Dubrawski, Toward A Companion Robot Fostering Perseverance in Math – A Pilot Study&lt;/p&gt;
+&lt;p&gt;Heather Pon-Barry, Nichola Lubold, Erin Walker and Amy Ogan, A Multimodal Approach to Adaptive Dialogue Interaction for Learning Companion Robots&lt;/p&gt;
+&lt;p&gt;Shruti Chandra, Ana Paiva and Pierre Dillenbourg, Children’s Perceptions of a Learner-Robot&lt;/p&gt;
+&lt;p&gt;Christopher Wallbridge, Séverin Lemaignan, Emmanuel Senft, Charlotte Edmunds and Tony Belpaeme, Spatial Referring Expressions in Child-Robot Interaction: Let’s Be Ambiguous!&lt;/p&gt;
+&lt;p&gt;13:00-14:00&lt;/p&gt;
+&lt;p&gt;Lunch&lt;/p&gt;
+&lt;p&gt;14:00-14:35&lt;/p&gt;
+&lt;p&gt;Elizabeth Broadbent (Auckland Uni), Robots in schools: Salient issues and new perspectives&lt;/p&gt;
+&lt;p&gt;14:35-15:10&lt;/p&gt;
+&lt;p&gt;Brian Scassellati (Yale), Socially Assistive Robots for Special Populations&lt;/p&gt;
+&lt;p&gt;15:10-15:30&lt;/p&gt;
+&lt;p&gt;Interactive Discussions&lt;/p&gt;
+&lt;p&gt;15:30-15:50&lt;/p&gt;
+&lt;p&gt;Coffee break&lt;/p&gt;
+&lt;p&gt;15:50-17:00&lt;/p&gt;
+&lt;p&gt;Semi-structured group discussions&lt;/p&gt;
+&lt;p&gt;17:00-17:30&lt;/p&gt;
+&lt;p&gt;Conclusions &amp;amp; Wrap up&lt;/p&gt;
+&lt;h1 id=&#34;selected-papers&#34;&gt;Selected Papers&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R4L @HRI 2019</title>
+      <link>https://Robot4Learning.github.io/events/hri2019/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/hri2019/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Since several years, several research groups have investigated the use of robots for learning and teaching. Their work is divided into two main streams that we could call the interaction stream (i-stream) and the building stream (b-stream).The I-stream develops embodied agents able to conduct rich interactions with learners. These are mainly humanoids, part of humanoids or robotised animals that engaged learners in activities (writing, playing, counting, …) and are able to interact about these activities. These robots namely provide verbal and non-verbal hints, encouragement and feedback on several dimensions of the task: performance, cognitive (e.g. level of (mis-)understanding), social (e.g. regulation turn taking in teams), meta-cognitive or emotional. In the b-stream, the learner’s activities is to build the robots capacities. The most popular building activities consist of programming a robot such Thymio, mostly to acquire programming skills. Many other projects in the Makers or FabLab educational initiatives explore the physical construction of the robot either by assembling components from a toolkit such as Lego Mindstorms or by using 3D printing, wiring, etc. These construction activities usually include programming is well, but generally target broader learning goals, mostly STEM skills.&lt;/p&gt;
+&lt;p&gt;While the I-STREAM addresses research questions that are very close to HRI and ROMAN topics, the work on the b-stream is generally addressed in other venues, creating a divide within those who explore robots in education. This workshop proposes to bring these two streams together because many developments that exist in one stream could also benefit to the other stream.  A typical example of these synergies are situations where a humanoid (i-stream) and a learner jointly manipulate a graspable robot (b-stream). This workshop aims to create many more bridges between these two streams.&lt;/p&gt;
+&lt;h1 id=&#34;list-of-topics&#34;&gt;List of topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning activities in HRI&lt;/li&gt;
+&lt;li&gt;Adaptive mechanisms for robot tutors&lt;/li&gt;
+&lt;li&gt;Engagement in educational human-robot interaction&lt;/li&gt;
+&lt;li&gt;Gain in learning vs fun in learning with a robot&lt;/li&gt;
+&lt;li&gt;Observational and Kinesthetic learning in human-robot interaction&lt;/li&gt;
+&lt;li&gt;Attachment and learning with a social robot&lt;/li&gt;
+&lt;li&gt;Impact of embodiment on learning&lt;/li&gt;
+&lt;li&gt;Shared knowledge and knowledge modelling in HRI&lt;/li&gt;
+&lt;li&gt;Technical innovation in learning or teaching robots&lt;/li&gt;
+&lt;li&gt;The role of teachers in child-robot interactions&lt;/li&gt;
+&lt;li&gt;Rehabilitation and re-education&lt;/li&gt;
+&lt;li&gt;Human-robot collaborative learning&lt;/li&gt;
+&lt;li&gt;Human-robot creativity&lt;/li&gt;
+&lt;li&gt;Human-robot knowledge sharing&lt;/li&gt;
+&lt;li&gt;Multi-party interaction and group interaction&lt;/li&gt;
+&lt;li&gt;Mixed human, robot and virtual teams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
+&lt;p&gt;14:00-14:20 Welcome and Introduction&lt;/p&gt;
+&lt;p&gt;14:20-14:45 Social Robot as an Awareness Tool to Help Regulate Collaboration in a Project Meeting. Alix Gonnot, Christine Michel, Jean-Charles Marty and Amélie Cordier.&lt;/p&gt;
+&lt;p&gt;14:45-15:10 MobiAxis: An Embodied Learning Task for Teaching Multiplication with a Social Robot. Karen Tatarian, Sebastian Wallkotter, Sera Buyukgoz, Rebecca Stower and Mohamed Chetouani.&lt;/p&gt;
+&lt;p&gt;15:10-16:25 Semi-structured group discussions&lt;/p&gt;
+&lt;p&gt;16:25-17:00 Conclusion &amp;amp; Wrap up&lt;/p&gt;
+&lt;h1 id=&#34;selected-papers&#34;&gt;Selected Papers&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Near Future of Children&#39;s Robotics</title>
+      <link>https://Robot4Learning.github.io/events/idc2018/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/idc2018/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Robotics is a multidisciplinary and highly innovative field. Recently, multiple and often minimally connected sub-communities of child-robot interaction have started to emerge, variously focusing on the design issues, engineering, and applications of robotic platforms and toolkits. Despite increasing public interest in robots, including robots for children, child-robot interaction research remains highly fragmented and lacks regular cross-disciplinary venues for discussion and dissemination. This workshop will bring together researchers with diverse scientific backgrounds. It will serve as a venue in which to reflect on the current circumstances in which child-robot research is conducted, articulate emerging and “near future” challenges, and discuss actions and tools with which to meet those challenges and consolidate the field.&lt;/p&gt;
+&lt;h1 id=&#34;external-link&#34;&gt;External Link&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sites.google.com/view/cri-idc-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/cri-idc-workshop&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Swiss R4L</title>
+      <link>https://Robot4Learning.github.io/events/swissr4l/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/swissr4l/</guid>
+      <description>&lt;h1 id=&#34;venue&#34;&gt;Venue&lt;/h1&gt;
+&lt;p&gt;The workshop will take place at the Hotel Victoria in Villars-sur-Ollon (aka, Villars, a Ski resort of the Vaud Canton). &lt;a href=&#34;http://www.eurotel-victoria.ch/villars/&#34;&gt;http://www.eurotel-victoria.ch/villars/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Villars is situated on the other side of the Leman Lac from Geneva.
+After enjoying the beautyful view of the lake on the way to Aigle by train, you will find a bus (144) that runs every 30min and drops you by the hotel.
+The trains to Aigle are frequent and you can find direct inter-regional train from major Swiss cities : from Bern train station (2h30), from Geneva train station (1h20), Geneva airport (1h30). Lausanne (35 min).&lt;/p&gt;
+&lt;h1 id=&#34;list-of-topics&#34;&gt;List of topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Adaptive mechanisms for robot tutors, personalization and adaptation algorithms for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Design of autonomous systems for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Theories and methods for tutoring (pedagogical and language acquisition)&lt;/li&gt;
+&lt;li&gt;Shared knowledge and knowledge modelling in HRI&lt;/li&gt;
+&lt;li&gt;Human-robot collaborative learning&lt;/li&gt;
+&lt;li&gt;Attachment and learning with a social robot (social and cognitive development)&lt;/li&gt;
+&lt;li&gt;Engagement in educational human-robot interaction&lt;/li&gt;
+&lt;li&gt;Human-robot relationship assessment&lt;/li&gt;
+&lt;li&gt;Designing student models and assessing student’s learning&lt;/li&gt;
+&lt;li&gt;Playful learning with a robot&lt;/li&gt;
+&lt;li&gt;Human-robot creativity&lt;/li&gt;
+&lt;li&gt;Kinesthetic and non-verbal communication in human-robot interaction&lt;/li&gt;
+&lt;li&gt;Impact of embodiment on learning&lt;/li&gt;
+&lt;li&gt;Technical innovation in learning or teaching robots&lt;/li&gt;
+&lt;li&gt;Long term learning interactions, design and methodologies for repeated human-robot encounters&lt;/li&gt;
+&lt;li&gt;Robots for learners with special needs and special abilities&lt;/li&gt;
+&lt;li&gt;Education and re-training for adults&lt;/li&gt;
+&lt;li&gt;Rehabilitation and re-education&lt;/li&gt;
+&lt;li&gt;Privacy and ethical issues in robot tutoring applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;prepare-your-workshop&#34;&gt;Prepare your workshop&lt;/h1&gt;
+&lt;p&gt;The workshop will be organised around 6 sections. Each sections will address a challenge in HRI for learners.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Non-verbal interaction and verbal interaction: impact of gestures, verbal feedback etc.&lt;/li&gt;
+&lt;li&gt;Kinesthetic learning vs other learning modalities: how does dynamic and tangible interaction influence the learner experience?&lt;/li&gt;
+&lt;li&gt;Learning gain and applications: do we learn better/ more with robots? what influence the learning gain? what can we teach with a robot (limitation in the curricula)? How do we design the learning task?&lt;/li&gt;
+&lt;li&gt;Autonomy and reasoning about learners knowledge: how to adapta, personalise learning?&lt;/li&gt;
+&lt;li&gt;In the classroom or managing group of learners: how to cope with several learners? collaboration, robot facilitator?&lt;/li&gt;
+&lt;li&gt;Engagement and motivation: how is engagement affecting learning? novelty effect.
+In order to frame the discussion, we ask you to contribute by preparing 3 slides related to the theme of the session. You can present a point of view, an experiment, an algorithm …&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R4L @HRI 2017</title>
+      <link>https://Robot4Learning.github.io/events/hri2017/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/hri2017/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;An increasing amount of HRI research focuses on the development of social robots acting as tutors. While robots have been popular as a focus for STEM teaching (see Lego Mindstorms or Thymio), the use of robots as tutors is novel. The field of HRI has started reporting on how to make effective robot tutors and how to measure their efficacy. These studies have shown that the potential of robots in educational settings is inarguable: robot can provide educational content tailored to the individual, something which is missing from current educational settings. They also have the potential to enhance learning via kinesthetic interaction, can improve the learner’s self-esteem and can provide empathic feedback. Finally, robots have been shown to engage the learner, to motivate her in the learning task or to enhance collaboration in a group.
+However, many questions still remain. For instance, what interaction strategies aid learning, and which hamper learning? How can we deal with the current technical limitations of robots? How should effective lessons be developed and implemented on a robot? Answering these and other questions requires a multidisciplinary effort, including contributions from pedagogy, developmental psychology, (computational) linguistics, artificial intelligence and HRI, among others.
+The aim of this workshop is to engage scholars who aim to gain expertise in education and in robotics (from instructional design to inverse kinematics, ROS to ZPD, Markov to Piaget) into a new  interdisciplinary community working on educational robotics. Participants will benefit from hearing from the forefront of field and from discussions on how to move from fundamental research towards the development of market-ready educational robots.&lt;/p&gt;
+&lt;h1 id=&#34;list-of-topics&#34;&gt;List of topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Adaptive mechanisms for robot tutors, personalization and adaptation algorithms for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Theories and methods for tutoring (pedagogical and  language acquisition)&lt;/li&gt;
+&lt;li&gt;Engagement in educational human-robot interaction&lt;/li&gt;
+&lt;li&gt;Gain in learning vs fun in learning with a robot&lt;/li&gt;
+&lt;li&gt;Kinesthetic and non-verbal communication in human-robot interaction&lt;/li&gt;
+&lt;li&gt;Attachment and learning with a social robot (social and cognitive development)&lt;/li&gt;
+&lt;li&gt;Impact of embodiment on learning&lt;/li&gt;
+&lt;li&gt;Shared knowledge and knowledge modelling in HRI&lt;/li&gt;
+&lt;li&gt;Technical innovation in learning or teaching robots&lt;/li&gt;
+&lt;li&gt;Rehabilitation and reeducation&lt;/li&gt;
+&lt;li&gt;Long term learning interactions, design and methodologies for repeated human-robot encounters&lt;/li&gt;
+&lt;li&gt;Human-robot collaborative learning&lt;/li&gt;
+&lt;li&gt;Human-robot creativity&lt;/li&gt;
+&lt;li&gt;Design of autonomous systems for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Privacy and ethical issues in robot tutoring applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;invited-speakers&#34;&gt;Invited Speakers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Pierre Dillenbourg, EPFL, Switzerland&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;selected-papers&#34;&gt;Selected Papers&lt;/h1&gt;
+&lt;p&gt;Uncanny Valley Feeling an Impact on Learning: A preliminary Experiment performed in a French Elementary School. Bertrand Tondu&lt;/p&gt;
+&lt;p&gt;Towards Designing a Socially Assistive Robot for Adaptive and Personalized Cognitive Training. Konstantinos Tsiakas, Cheryl Abellanoza, Maher Abujelala, Michalis Papakostas, Tasnim Makada and Fillia Makedon&lt;/p&gt;
+&lt;p&gt;Robot-Based Learning Design for Young Children. Yanghee Kim and Diantha Smith&lt;/p&gt;
+&lt;p&gt;Teaching Assistant Robot Development by PRINTEPS. Chihiro Nishimoto, Shunsuke Akashiba, Takeshi Morita and Takahira Yamaguchi&lt;/p&gt;
+&lt;p&gt;A Humanoid Robot as a Language Tutor. Johanna Hemminki and Anne Erkinheimo-Kyllönen&lt;/p&gt;
+&lt;p&gt;A Persuasive Storyteller Robot: Pilot Study. Raul Paradeda, Maria José Ferreira, Carlos Martinho, João Dias and Ana Paiva&lt;/p&gt;
+&lt;p&gt;Comparing L2 Word Learning through a Tablet or Real Objects: What Benefits Learning Most?. Rianne Vlaar, Josje Verhagen, Ora Oudgenoeg-Paz and Paul Leseman&lt;/p&gt;
+&lt;p&gt;Exploring the Effect of Gestures and Adaptive Tutoring on Children’s Comprehension of L2 Vocabularies. Jan de Wit, Thorsten Schodde, Bram Willemsen, Kirsten Bergmann, Mirjam de Haas, Stefan Kopp, Emiel Krahmer and Paul Vogt&lt;/p&gt;
+&lt;p&gt;ProCRob Architecture for Personalized Social Robotics. Pouyan Ziafati, Francisco J Rodríguez Lera, Andreia Pinto Costa, Aida Nazarikhorram and Leon Van Der Torre Has&lt;/p&gt;
+&lt;h1 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R4L @RoMan 2016</title>
+      <link>https://Robot4Learning.github.io/events/roman2016/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/events/roman2016/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Learning occurs throughout our entire life. We all learn about different things, at our own pace and method. In classical education, a class of learners is meant to learn a standard course in a pace consistent for the entire class. However, when a group of students are taught the same lessons at the same pace some students may lag in comprehension while some others excel. The concept of adaptive learning originates from the fact that every learner has a unique learning curve and personalized content aligned to her learning curve can improve learning outcomes. Recent technologies have made it possible to capture learner’s data, on the basis of which the system delivers different topics to the learner.&lt;/p&gt;
+&lt;p&gt;The Robots for Learning workshop, in its 5th series, focuses on adaptive learning. Adaptive learning systems are envisioned to maximize learning efficiency, improve learning outcomes, create personalised learning experience, generate analytics for early interventions, increase engagement, and allow for customizability to fit individual needs and preferences. In this workshop, we aim to discuss the approaches and challenges of using robots for learner-centric methods, learning path adaptation, social personalisation, remediation and multimodal techniques. Robots can be able to perceive and monitor learning, and at the same time empathize and give personalized feedback to the learners.&lt;/p&gt;
+&lt;p&gt;With this workshop, we aim at discussing recent advances in empirical and theoretical state-of-the-art research contributions on HRI in educational contexts regarding the following challenges: how adaptivity can play a role in the educational context? How can we use machine learning to provide better learning? How could robots be used to foster adaptive learning for a group of users?&lt;/p&gt;
+&lt;h1 id=&#34;list-of-topics&#34;&gt;List of topics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Adaptive mechanisms for robot tutors, personalization and adaptation algorithms for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Design of autonomous systems for tutoring interactions&lt;/li&gt;
+&lt;li&gt;Theories and methods for tutoring (pedagogical and  language acquisition)&lt;/li&gt;
+&lt;li&gt;Shared knowledge and knowledge modelling in HRI&lt;/li&gt;
+&lt;li&gt;Human-robot collaborative learning&lt;/li&gt;
+&lt;li&gt;Attachment and learning with a social robot (social and cognitive development)&lt;/li&gt;
+&lt;li&gt;Engagement in educational human-robot interaction&lt;/li&gt;
+&lt;li&gt;Human-robot relationship assessment&lt;/li&gt;
+&lt;li&gt;Designing student models and assessing student’s learning&lt;/li&gt;
+&lt;li&gt;Playful learning with a robot&lt;/li&gt;
+&lt;li&gt;Human-robot creativity&lt;/li&gt;
+&lt;li&gt;Kinesthetic and non-verbal communication in human-robot interaction&lt;/li&gt;
+&lt;li&gt;Impact of embodiment on learning&lt;/li&gt;
+&lt;li&gt;Technical innovation in learning or teaching robots&lt;/li&gt;
+&lt;li&gt;Long term learning interactions, design and methodologies for repeated human-robot encounters&lt;/li&gt;
+&lt;li&gt;Robots for learners with special needs and special abilities&lt;/li&gt;
+&lt;li&gt;Education and re-training for adults&lt;/li&gt;
+&lt;li&gt;Rehabilitation and re-education&lt;/li&gt;
+&lt;li&gt;Privacy and ethical issues in robot tutoring applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;program&#34;&gt;Program&lt;/h1&gt;
+&lt;p&gt;9:00-9:05            Introduction
+9:05-9:40            Keynote Tony Belpaeme (30 min +5)
+9:40-10:30          Presentations (2 papers, 20 min +5 each)
+10:30-11:00        Coffee break
+11:00-11:50        Presentations (2 papers, 20 min +5 each)
+11:50-12:50        Semi-structured group discussions
+12:50-13:00        Conclusion &amp;amp; Wrap up&lt;/p&gt;
+&lt;h1 id=&#34;selected-papers&#34;&gt;Selected Papers&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt; Children’s anthropomorphism of second language robot tutors (Mirjam de Haas, Rianne van den Berghe, Paul Leseman, Emiel Krahmer, Josje Verhagen, Paul Vogt, Bram Willemsen and Jan de Wit)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt; Storytelling with a social robot (Nicole Goossens, Rian Aarts and Paul Vogt) 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt; Effective robot-human skill transfer via mutual reinforcement learning (Sayanti Roy, Emily Kieson, Charles Abramson and Christopher Crick)&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
