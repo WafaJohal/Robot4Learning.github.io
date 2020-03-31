@@ -5,12 +5,29 @@
     <link>https://Robot4Learning.github.io/</link>
       <atom:link href="https://Robot4Learning.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Wafa Johal 2020</copyright><lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Wafa Johal 2020</copyright><lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title></title>
       <link>https://Robot4Learning.github.io/</link>
     </image>
+    
+    <item>
+      <title>Zotero</title>
+      <link>https://Robot4Learning.github.io/resources/zotero/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://Robot4Learning.github.io/resources/zotero/</guid>
+      <description>&lt;p&gt;We provide an open access link to a Zotero collection that contains papers surveyed in [1]. The list of papers has been updated and enriched, covering research from 2004-2020 (March).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.zotero.org/groups/2419050/hri-unsw/collections/X6PKYLT6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.zotero.org/groups/2419050/hri-unsw/collections/X6PKYLT6&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[1] &lt;strong&gt;Social robots for education: A review&lt;/strong&gt;
+By Tony Belpaeme, James Kennedy, Aditi Ramachandran,  Brian Scassellati, Fumihide Tanaka
+Science Robotics 15 Aug 2018
+&lt;em&gt;A review of social robots in education discusses expected outcomes, technical challenges, and directions for future research.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>R4L @RoMan 2019</title>
@@ -337,16 +354,6 @@ The aim of this workshop is to engage scholars who aim to gain expertise in educ
 &lt;pre&gt;&lt;code&gt; Effective robot-human skill transfer via mutual reinforcement learning (Sayanti Roy, Emily Kieson, Charles Abramson and Christopher Crick)&lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zotero</title>
-      <link>https://Robot4Learning.github.io/resources/zotero/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Robot4Learning.github.io/resources/zotero/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://www.zotero.org/groups/2419050/hri-unsw/collections/X6PKYLT6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.zotero.org/groups/2419050/hri-unsw/collections/X6PKYLT6&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

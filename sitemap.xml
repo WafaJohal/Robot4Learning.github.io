@@ -4,16 +4,36 @@
   
   <url>
     <loc>https://Robot4Learning.github.io/</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/events/</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://Robot4Learning.github.io/tags/r4l/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/resources/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/tags/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/resources/zotero/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/tags/zotero/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Robot4Learning.github.io/events/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,11 +49,6 @@
   
   <url>
     <loc>https://Robot4Learning.github.io/tags/roman2019/</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/tags/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,18 +148,6 @@
   
   <url>
     <loc>https://Robot4Learning.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/resources/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/resources/zotero/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Robot4Learning.github.io/tags/zotero/</loc>
   </url>
   
 </urlset>
